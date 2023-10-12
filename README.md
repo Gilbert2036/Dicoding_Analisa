@@ -30,7 +30,7 @@ Langkah-langkahnya adalah sebagai berikut:
 ## Run steamlit app
 1.Jalankan Aplikasi Streamlitnya
     ```
-    streamlit run dashboard.py
+    streamlit run dashboard/dashboard.py
     ```
     
 2.Untuk memberhentikan aplikasi tekan `ctrl + c`.
